@@ -1,0 +1,8 @@
+tensorflow-macos
+pandas
+numpy
+matplotlib
+streamlit
+seaborn
+scikit-learn
+h5py
