@@ -6,3 +6,4 @@ streamlit
 seaborn
 scikit-learn
 h5py
+keras
